@@ -1,0 +1,12 @@
+{
+    "name": "smrtnrll - developer edition",
+    "description": "Continuously refreshes class shopping cart until someone drops the class you want, and it automatically enrolls you.",
+    "version": "2.0",
+    "manifest_version": 2,
+    "permissions": [
+        "activeTab"
+    ],
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
